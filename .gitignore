@@ -1,0 +1,6 @@
+__pycache__
+venv
+files
+files_cleaned
+files_processed
+embeddings
