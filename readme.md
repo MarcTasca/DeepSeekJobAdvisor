@@ -17,9 +17,8 @@ In order to make it run locally you just need to:
 - 2. Download two models:
     - deepseek-r1-distill-llama-8b
     - text-embedding-nomic-embed-text-v1.5
-
-Moreover you need this libraries installed:
-
+- 3. put the files into a folder: "files/"
+- 4. Use the tutorial.ipynb
 
 ## Frontend
 - Make a very simplified frontend. For a PoC, Streamlit should be enough. I will not check all the possible typing errors and stuff <3.
